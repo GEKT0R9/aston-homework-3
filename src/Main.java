@@ -3,7 +3,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-        String filePath = "out/test.txt";
+        String filePath = "test.txt";
         List<String> dataToWrite = List.of(
                 "11",
                 "Hello world!",
